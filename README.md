@@ -19,11 +19,7 @@ The project consists of **four virtual machines**.
 | Galera DB Node 2      | 192.168.0.4 | Cluster Member         |
 | Galera DB Node 3      | 192.168.0.5 | Cluster Member         |
 
-```
-     <img width="981" height="643" alt="image" src="https://github.com/user-attachments/assets/ddbbdb6a-2a0d-4c1f-92eb-aa6aa5619b9c" />
 
-           
-```
 
 ---
 
