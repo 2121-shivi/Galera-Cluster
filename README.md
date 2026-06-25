@@ -20,7 +20,8 @@ The project consists of **four virtual machines**.
 | Galera DB Node 3      | 192.168.0.5 | Cluster Member         |
 
 ```
-     <img width="1536" height="1024" alt="ChatGPT Image Jun 25, 2026, 04_07_00 PM" src="https://github.com/user-attachments/assets/144fcfcc-d0ff-4035-a7f8-f4e98d9b9aac" />
+     <img width="981" height="643" alt="image" src="https://github.com/user-attachments/assets/ddbbdb6a-2a0d-4c1f-92eb-aa6aa5619b9c" />
+
            
 ```
 
@@ -77,19 +78,6 @@ The following validations were completed during the implementation:
 
 ---
 
-## Repository Structure
-
-```
-galera-active-active-cluster/
-│
-├── README.md
-└── setup.md
-```
-
-* **README.md** – Project overview, architecture, features, and workflow.
-* **setup.md** – Complete installation, configuration, and testing commands used during the implementation.
-
----
 
 ## Learning Outcomes
 
