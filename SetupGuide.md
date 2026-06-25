@@ -1,7 +1,4 @@
 
-Shivani Sharma
-4:02 PM (0 minutes ago)
-to me
 
 # Active-Active Galera Cluster Simulation Setup Guide
 
